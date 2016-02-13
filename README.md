@@ -1,3 +1,8 @@
+Live preview of Part1:
+
+* [A Modest Proposal](http://by29009.github.io/gutenberg/AModestProposal.html)
+* [Alice in Wonderland](http://by29009.github.io/gutenberg/AlicesAdventuresInWonderland.html)
+
 Live preview of Part 2:
 
 * [Good CSS](http://by29009.github.io/GoodTheme.html)
