@@ -1,3 +1,7 @@
+No changes were made to the Gutenberg HTML files.
+
+No collaborators.
+
 Assignment: CSS Hell
 ====================
 
