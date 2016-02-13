@@ -1,3 +1,8 @@
+Live preview of Part 2:
+
+* [Good CSS](http://by29009.github.io/GoodTheme.html)
+* [Bad CSS](http://by29009.github.io/BadTheme.html)
+
 No changes were made to the Gutenberg HTML files.
 
 No collaborators.
